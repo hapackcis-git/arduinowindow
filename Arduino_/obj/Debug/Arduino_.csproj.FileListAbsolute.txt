@@ -1,0 +1,11 @@
+K:\Arduino_\Arduino_\bin\Debug\Arduino_.exe.config
+K:\Arduino_\Arduino_\bin\Debug\Arduino_.exe
+K:\Arduino_\Arduino_\bin\Debug\Arduino_.pdb
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.csproj.AssemblyReference.cache
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.csproj.SuggestedBindingRedirects.cache
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.Form1.resources
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.Properties.Resources.resources
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.csproj.GenerateResource.cache
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.csproj.CoreCompileInputs.cache
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.exe
+K:\Arduino_\Arduino_\obj\Debug\Arduino_.pdb
